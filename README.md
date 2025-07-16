@@ -15,7 +15,8 @@ In this **Project**, We are going to make a Hand Gesture Detection System using 
 Refer the [Documentation website](https://www.unihiker.com/) for more information.  
 
 
-**Different Programming Methods for UNIHIKER**
+**Different Programming Methods for UNIHIKER**  
+You can program UNIHIKER with following different ways -  
 - [Jupyter Notebook](https://www.unihiker.com/wiki/GettingStarted/gettingstarted_jupyternotebook/)  
 - [Mind+ Python & Graphical Python](https://www.unihiker.com/wiki/GettingStarted/gettingstarted_mindplus/)  
 - [VSCode - Python](https://www.unihiker.com/wiki/GettingStarted/gettingstarted_vscode/)  
@@ -25,7 +26,7 @@ Refer the [Documentation website](https://www.unihiker.com/) for more informatio
   
   
 **Software**
-- No need any specific software/IDE. We will use built-in JupyterLab Notebook of UNIHIKER
+- No need any specific software/IDE. We will use built-in [JupyterLab Notebook of UNIHIKER](https://www.unihiker.com/wiki/GettingStarted/gettingstarted_jupyternotebook/)  
 - Python, MediaPipe and OpenCV libraries
   
 **Hardware**
