@@ -55,7 +55,7 @@ You can program UNIHIKER with following different ways -
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
-🌐 GitHub Repository - 🔗https://github.com/make2explore/ESP-ZeroCode  
+🌐 GitHub Repository - 🔗 https://github.com/make2explore/Hand-Gesture-Recognition-System-on-UNIHIKER-M10  
   
 🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore  
   
