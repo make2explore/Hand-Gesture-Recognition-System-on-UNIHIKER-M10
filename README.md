@@ -15,7 +15,7 @@ In this **Project**, We are going to make a Hand Gesture Detection System using 
 Refer the [Documentation website](https://www.unihiker.com/) for more information.  
 
 
-**Software**
+**Different Programming Methods for UNIHIKER**
 - [Jupyter Notebook](https://www.unihiker.com/wiki/GettingStarted/gettingstarted_jupyternotebook/)  
 - [Mind+ Python & Graphical Python](https://www.unihiker.com/wiki/GettingStarted/gettingstarted_mindplus/)  
 - [VSCode - Python](https://www.unihiker.com/wiki/GettingStarted/gettingstarted_vscode/)  
@@ -23,21 +23,7 @@ Refer the [Documentation website](https://www.unihiker.com/) for more informatio
 - [Tonny - Python](https://www.unihiker.com/wiki/GettingStarted/gettingstarted_thonny/)  
 - [SSH Tools](https://www.unihiker.com/wiki/GettingStarted/gettingstarted_ssh/)  
   
-
-**Getting Started:**  
-In order to use and get started with ESP-ZeroCode on ESP32, you need not to install any tool on your system.  
-
-This tutorial is about How to get started with ESP ZeroCode platform/tool. We've discussed..  
-- **ESP-ZeroCode Platform Intro** - Basic Introduction. 
-- **Create Product** - New Project Creation
-- **Select Device/Module** - Select the espressif SoC module which you want to use
-- **Customize** - Project Customization
-- **Test on ESP Launchpad** - Test your ZeroCode product using ESP Launchpad Web based tool
-- **Menu Configuration Tool Demo** using ESP32C3 and C6 Dev Board  
-- **ESP ZeroCode Products** How to use product templates given on ZeroCode Platform
-- **Product - LED Strip** 
-- **Product - Plug** 
-
+  
 **Software**
 - No need any specific software/IDE. We will use built-in JupyterLab Notebook of UNIHIKER
 - Python, MediaPipe and OpenCV libraries
