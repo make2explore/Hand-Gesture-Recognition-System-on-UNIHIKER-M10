@@ -43,7 +43,7 @@ You can program UNIHIKER with following different ways -
 
 ▶️  Meet the UNIHIKER – Game-Changer for Makers! 🔗  https://youtube.com/shorts/obxuvQ6YX7Y    
   
-▶️  [DIY Project] Gesture Detection on UNIHIKER - 🔗  https://youtube.com/WssAXF9zzZM  
+▶️  Real-Time Hand Gesture Recognition on UNIHIKER - 🔗  https://youtube.com/WssAXF9zzZM  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
